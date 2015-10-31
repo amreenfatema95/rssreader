@@ -40,5 +40,9 @@ If the application is being initiated through a command line interface, then the
 java -cp bin: lib/jdom-1.1.3.jar:lib/rome-1.0.jar rssReader.RSSReader
 
 The following assumptions apply:
-* All class files are in the bin folder, and
+
+* All class files are in the bin folder,
+
+* All external jars are in lib folder, and
+
 * Package is called rssReader
